@@ -1,0 +1,21 @@
+body{
+  background-color:#EDD2F3;
+  }
+h1{
+  color:#03045E;
+}
+a{
+  color:#A85CF9;
+}
+
+.crown{
+  background-color: yellow;
+  border-radius: 100px;
+  width: 30px;
+}
+.submit:hover{
+  background-color: pink;
+}
+img:hover{
+  background-color: red;
+}
